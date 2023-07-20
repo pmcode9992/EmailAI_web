@@ -1,0 +1,30 @@
+section {
+  background: #f5f7fa;
+  display: flex;
+  padding: 2.5rem 0rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.heading {
+    width: 33.875rem;
+  color: var(--neutral-d-grey, #4d4d4d);
+  text-align: center;
+
+  /* Heading/Headline 2 */
+  font-family: Inter;
+  font-size: 2.25rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 2.75rem; /* 122.222% */
+}
+
+.contactdets {
+  display: flex;
+  padding: 2.5rem 0rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
