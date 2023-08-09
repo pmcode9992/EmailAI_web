@@ -1,0 +1,11 @@
+.headertext{
+    width: 57.25rem;
+    color: #4D4D4D;
+text-align: center;
+font-family: Inter;
+font-size: 3rem;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 3.6rem */
+text-transform: capitalize;
+}
