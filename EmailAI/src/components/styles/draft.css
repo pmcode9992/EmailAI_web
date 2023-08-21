@@ -1,0 +1,97 @@
+.draft-title {
+  color: var(--neutral-800, #170f49);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+
+  font-family: DM Sans;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 2.1875rem;
+}
+.draft-sub-title {
+  color: var(--neutral-600, #6f6c90);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+
+  font-family: "DM Sans";
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.875rem;
+}
+.textbox {
+  flex-shrink: 0;
+  border-radius: 0.25rem;
+  border: 1px solid var(--neutral-300, #eff0f6);
+  background: var(--neutral-100, #fff);
+  padding: 1.35rem;
+
+  box-shadow: 0px 2px 6px 0px rgba(19, 18, 66, 0.07);
+}
+.form-floating{
+    height: 20rem;
+}
+.margin{
+    margin:5.5%
+}
+
+.draft-gap{
+    gap: 2.75%;
+}
+.draft-gap-1{
+    gap: 1.75%;
+}
+.bg-purple{
+    background: #482683;
+
+}
+.text-white{
+    color: #F5F7FA;
+}
+.generatedemail{
+    width: 100%;
+height: 60%;
+flex-shrink: 0;
+border-radius: 0.25rem;
+background: rgba(106, 52, 199, 0.20);
+color: #F5F7FA;
+
+/* Other/18-20 R */
+font-family: DM Sans;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+line-height: 1.25rem; /* 111.111% */
+}
+.roboimg{
+    width:65%;
+    height: 65%;
+
+}
+.dropdown{
+    display: inline-flex;
+padding: 1.125rem 1.25rem 1.125rem 0.75rem;
+align-items: center;
+gap: 9.625rem;
+border-radius: 0.25rem;
+border: 1px solid var(--neutral-300, #EFF0F6);
+background: var(--neutral-100, #FFF);
+
+box-shadow: 0px 2px 6px 0px rgba(19, 18, 66, 0.07);
+}
+
+.btn-white{
+    background-color: white;
+    color: black;
+}
+.draft-min-width{
+    min-width: 468px;
+}
+@media (max-width: 935px) {
+    .draft-side{
+        width: 100% !important;
+        padding: 10% !important;
+        margin: 0 !important;
+    }
+  }
