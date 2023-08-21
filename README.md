@@ -6,7 +6,9 @@
 https://github.com/pmcode9992/EmailAI_web/assets/93529653/c47fa298-c6be-4bb6-a55b-16c42f6e12f2
 
 
-https://github.com/pmcode9992/EmailAI_web/assets/93529653/a288fcea-28ca-4217-a59b-c153ab1d0371
+https://github.com/pmcode9992/EmailAI_web/assets/93529653/08d5406d-fc84-4667-82af-3ff60d9dcf32
+
+
 
 How to Locally Host a Website
 Follow these steps to locally host a website using npm and Node.js:
