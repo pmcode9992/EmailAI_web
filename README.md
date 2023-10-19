@@ -17,7 +17,7 @@ Clone Repository:
 Clone your Git repository that contains the website source code to your local machine. You can use the following command:
 
 ```terminal
-git clone <repository-url>
+git clone https://github.com/pmcode9992/EmailAI_web.git
 ```
 Navigate to Project Directory:
 Change your working directory to the project folder using the cd command:
